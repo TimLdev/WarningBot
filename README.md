@@ -1,7 +1,7 @@
 # WarningBot
 A Java Discord bot using JDA with a warning system.
 
-Give, delete and view warnings with this amazing Discord bot! A SQL database is required to store the warnings and information.
+Give, delete and view warnings with this amazing Discord bot! A MySQL database is required to store the warnings and information.
 
 ## Commands
 **⚠️ Give a user a warning:**
@@ -23,7 +23,7 @@ Give, delete and view warnings with this amazing Discord bot! A SQL database is 
 
 
 ## Setup
-Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env` file, along with your SQL database information.
+Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env` file, along with your MySQL database information.
 
 ## Contact
 Discord: **TIM#0221**
